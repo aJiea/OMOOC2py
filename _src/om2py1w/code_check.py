@@ -12,3 +12,4 @@ if guess == psw:
 else:
     print '不对，再见'
     exit()
+
