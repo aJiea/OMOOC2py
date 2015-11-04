@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # author: aJiea
 # a diary program
-
+# 密码：1234
 
 
 import socket
